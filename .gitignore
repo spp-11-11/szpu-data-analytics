@@ -11,13 +11,7 @@ Thumbs.db
 desktop.ini
 .DS_Store
 
-# ===== 体积大的素材（共约 75MB）=====
-# 8 张城市地铁线路图原图，53MB（武汉单张 27.5MB）
+# ===== 体积大的素材：8 张城市地铁线路图原图，共 53MB =====
+# 武汉单张 28MB、成都 10MB、深圳 7.4MB，仅作报告配图，不影响代码运行。
+# 如需把原图也传上去，删掉下面这一行即可。
 北上广深等八城地铁运营效能分析/img/
-# 美国婴孩名字数据集，132 个 txt，22MB
-notebook基本使用/data/babynames/
-
-# ===== 单个超过 1MB 的样例数据 =====
-notebook基本使用/data/cal_housing.data
-notebook基本使用/data/zp.csv
-notebook基本使用/data/招聘.csv
